@@ -1,0 +1,15 @@
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csprojResolveAssemblyReference.cache
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.Form1.resources
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.Properties.Resources.resources
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csproj.GenerateResource.Cache
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.exe
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\obj\Debug\TwitterBot.pdb
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.dll
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\TweetSharp.dll
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\PERSO\TwitterBot\TwitterBot\TwitterBot\bin\Debug\TweetSharp.pdb
